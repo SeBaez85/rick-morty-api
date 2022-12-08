@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rick-morty-api/static/css/main.702ba312.css",
+    "main.js": "/rick-morty-api/static/js/main.c9b5c6a5.js",
+    "static/media/SecretToilet3.jpg": "/rick-morty-api/static/media/SecretToilet3.91375287d6d409a0bcd0.jpg",
+    "static/media/squared-paper-texture.webp": "/rick-morty-api/static/media/squared-paper-texture.8e8ae8e2a80e0a5dfd06.webp",
+    "index.html": "/rick-morty-api/index.html",
+    "main.702ba312.css.map": "/rick-morty-api/static/css/main.702ba312.css.map",
+    "main.c9b5c6a5.js.map": "/rick-morty-api/static/js/main.c9b5c6a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.702ba312.css",
+    "static/js/main.c9b5c6a5.js"
+  ]
+}
